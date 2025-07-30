@@ -38,7 +38,7 @@ export default function Email7() {
           <strong>Ankunftszeit:</strong> 20:37 Uhr
         </p>
         <img
-          src="https://cdn.shopify.com/s/files/1/0776/0707/6169/files/email_2_6.png?v=1753899009"
+          src="https://cdn.shopify.com/s/files/1/0776/0707/6169/files/email_2_6_kopia.png?v=1753915973"
           alt="Rabattaktion Thunder"
           className="email-image"
         />
