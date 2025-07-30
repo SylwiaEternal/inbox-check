@@ -80,4 +80,10 @@
   .email-back-button {
     font-size: 0.9rem;
   }
+  .email-container img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1rem 0;
+}
 }
