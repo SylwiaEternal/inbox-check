@@ -1,0 +1,83 @@
+.email-container {
+  max-width: 1100px;
+  margin: 20px auto;
+  padding: 30px 40px;
+  background-color: white;
+  border-radius: 12px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+  font-family: 'Segoe UI', sans-serif;
+  transition: all 0.3s ease;
+}
+
+.email-back-button {
+  display: inline-block;
+  margin-bottom: 20px;
+  font-size: 0.95rem;
+  color: #6b46c1;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.email-back-button:hover {
+  color: #4c2889;
+  text-decoration: underline;
+}
+
+.email-header {
+  font-size: 0.95rem;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.email-subject {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 8px;
+  color: #111;
+}
+
+.email-from {
+  font-size: 0.95rem;
+  color: #555;
+  margin-bottom: 24px;
+}
+
+.email-body {
+  font-size: 1rem;
+  line-height: 1.8;
+  color: #222;
+}
+
+.email-body p {
+  margin-bottom: 1.2em;
+}
+
+.email-body a {
+  color: #6b46c1;
+  text-decoration: underline;
+}
+
+.email-body a:hover {
+  color: #4c2889;
+}
+
+/* 📱 Mobile Responsive Styling */
+@media screen and (max-width: 768px) {
+  .email-container {
+    padding: 20px 24px;
+    margin: 10px;
+  }
+
+  .email-subject {
+    font-size: 1.25rem;
+  }
+
+  .email-body {
+    font-size: 0.95rem;
+    line-height: 1.6;
+  }
+
+  .email-back-button {
+    font-size: 0.9rem;
+  }
+}
