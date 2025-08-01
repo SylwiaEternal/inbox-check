@@ -38,8 +38,7 @@ export default function Email1() {
         <p>
           Gesundheitsbericht{' '}
           <a
-            href="https://cdn.shopify.com/s/files/1/0776/0707/6169/files/email_medical_rep.pdf?v=1753898973"
-            target="_blank"
+            href="https://cdn.shopify.com/s/files/1/0776/0707/6169/files/medical_doc.pdf?v=1754074358"
             rel="noopener noreferrer"
           >
             herunterladen
